@@ -129,7 +129,9 @@ body {
     line-height: 22px;
     margin-bottom: 35px;
 }
-
+.carousel-item--0 .carousel-item__image{
+  background-image: url('OCI-1.jpg');
+}
 .carousel-item--1 .carousel-item__image{
   background-image: url('222.jpg');
 }
